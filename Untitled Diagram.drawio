@@ -1,9 +1,164 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:135.0) Gecko/20100101 Firefox/135.0" version="26.0.16">
   <diagram name="Page-1" id="IfCidgmosDAY3yWi8qAJ">
-    <mxGraphModel>
+    <mxGraphModel dx="2113" dy="1440" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <UserObject label="%name%" name="Knowledge Base (Before)" placeholders="1" id="Y-J2-YyE4Srri9UI6lyo-114">
+          <mxCell style="shape=hexagon;fillColor=#ffddc1;strokeColor=#d2691e;perimeter=hexagonPerimeter;" vertex="1" parent="1">
+            <mxGeometry x="320" y="500" width="160" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%name%" name="Innovation Ideas" placeholders="1" id="Y-J2-YyE4Srri9UI6lyo-115">
+          <mxCell style="shape=ellipse;fillColor=#ff9999;strokeColor=#cc0000;perimeter=ellipsePerimeter;dashed=1;" vertex="1" parent="1">
+            <mxGeometry x="520" y="530" width="110" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%name%" name="Case Study X" placeholders="1" id="Y-J2-YyE4Srri9UI6lyo-116">
+          <mxCell style="shape=ellipse;fillColor=#ff9999;strokeColor=#cc0000;perimeter=ellipsePerimeter;dashed=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="590" width="100" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%name%" name="Random Thought" placeholders="1" id="Y-J2-YyE4Srri9UI6lyo-117">
+          <mxCell style="shape=ellipse;fillColor=#ff9999;strokeColor=#cc0000;perimeter=ellipsePerimeter;dashed=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="670" width="120" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%name%" name="2024 Notes" placeholders="1" id="Y-J2-YyE4Srri9UI6lyo-118">
+          <mxCell style="shape=ellipse;fillColor=#ff9999;strokeColor=#cc0000;perimeter=ellipsePerimeter;dashed=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="750" width="80" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%name%" name="Project Plan" placeholders="1" id="Y-J2-YyE4Srri9UI6lyo-119">
+          <mxCell style="shape=ellipse;fillColor=#ff9999;strokeColor=#cc0000;perimeter=ellipsePerimeter;dashed=1;" vertex="1" parent="1">
+            <mxGeometry x="170" y="460" width="90" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%name%" name="Link 1" placeholders="1" id="Y-J2-YyE4Srri9UI6lyo-120">
+          <mxCell style="shape=ellipse;fillColor=#ff9999;strokeColor=#cc0000;perimeter=ellipsePerimeter;dashed=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="910" width="60" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%name%" name="Link 2" placeholders="1" id="Y-J2-YyE4Srri9UI6lyo-121">
+          <mxCell style="shape=ellipse;fillColor=#ff9999;strokeColor=#cc0000;perimeter=ellipsePerimeter;dashed=1;" vertex="1" parent="1">
+            <mxGeometry x="710" y="550" width="60" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%name%" name="Link 3" placeholders="1" id="Y-J2-YyE4Srri9UI6lyo-122">
+          <mxCell style="shape=ellipse;fillColor=#ff9999;strokeColor=#cc0000;perimeter=ellipsePerimeter;dashed=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="1070" width="60" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%name%" name="Link 4" placeholders="1" id="Y-J2-YyE4Srri9UI6lyo-123">
+          <mxCell style="shape=ellipse;fillColor=#ff9999;strokeColor=#cc0000;perimeter=ellipsePerimeter;dashed=1;" vertex="1" parent="1">
+            <mxGeometry x="20" y="430" width="60" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%name%" name="Knowledge Base (After)" placeholders="1" id="Y-J2-YyE4Srri9UI6lyo-124">
+          <mxCell style="shape=hexagon;fillColor=#ffddc1;strokeColor=#d2691e;perimeter=hexagonPerimeter;" vertex="1" parent="1">
+            <mxGeometry x="620" y="1580" width="150" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%name%" name="Innovation Ideas" placeholders="1" id="Y-J2-YyE4Srri9UI6lyo-125">
+          <mxCell style="shape=rectangle;fillColor=#87ceeb;strokeColor=#4682b4;perimeter=rectanglePerimeter;" vertex="1" parent="1">
+            <mxGeometry x="850" y="1490" width="110" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%name%" name="Case Study X (Evidence)" placeholders="1" id="Y-J2-YyE4Srri9UI6lyo-126">
+          <mxCell style="shape=rectangle;fillColor=#b3ffb3;strokeColor=#006600;perimeter=rectanglePerimeter;" vertex="1" parent="1">
+            <mxGeometry x="990" y="1440" width="160" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%name%" name="2024 Notes" placeholders="1" id="Y-J2-YyE4Srri9UI6lyo-127">
+          <mxCell style="shape=rectangle;fillColor=#87ceeb;strokeColor=#4682b4;perimeter=rectanglePerimeter;" vertex="1" parent="1">
+            <mxGeometry x="630" y="1350" width="80" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%name%" name="Project Plan" placeholders="1" id="Y-J2-YyE4Srri9UI6lyo-128">
+          <mxCell style="shape=rectangle;fillColor=#87ceeb;strokeColor=#4682b4;perimeter=rectanglePerimeter;" vertex="1" parent="1">
+            <mxGeometry x="410" y="1600" width="90" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%name%" name="Index Node" placeholders="1" id="Y-J2-YyE4Srri9UI6lyo-129">
+          <mxCell style="shape=rectangle;fillColor=#b3ffb3;strokeColor=#006600;perimeter=rectanglePerimeter;" vertex="1" parent="1">
+            <mxGeometry x="720" y="1840" width="80" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%name%" name="Project Plan (Context)" placeholders="1" id="Y-J2-YyE4Srri9UI6lyo-130">
+          <mxCell style="shape=rectangle;fillColor=#87ceeb;strokeColor=#4682b4;perimeter=rectanglePerimeter;" vertex="1" parent="1">
+            <mxGeometry x="570" y="1170" width="140" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%name%" name="Innovation Ideas (Inspiration)" placeholders="1" id="Y-J2-YyE4Srri9UI6lyo-131">
+          <mxCell style="shape=rectangle;fillColor=#87ceeb;strokeColor=#4682b4;perimeter=rectanglePerimeter;" vertex="1" parent="1">
+            <mxGeometry x="210" y="1510" width="180" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%name%" name="Index Node (Summary)" placeholders="1" id="Y-J2-YyE4Srri9UI6lyo-132">
+          <mxCell style="shape=rectangle;fillColor=#b3ffb3;strokeColor=#006600;perimeter=rectanglePerimeter;" vertex="1" parent="1">
+            <mxGeometry x="240" y="1720" width="150" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%name%" name="Innovation Ideas (Cluster 1)" placeholders="1" id="Y-J2-YyE4Srri9UI6lyo-133">
+          <mxCell style="shape=rectangle;fillColor=#87ceeb;strokeColor=#4682b4;perimeter=rectanglePerimeter;" vertex="1" parent="1">
+            <mxGeometry x="860" y="1870" width="170" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%name%" name="2024 Notes (Cluster 2)" placeholders="1" id="Y-J2-YyE4Srri9UI6lyo-134">
+          <mxCell style="shape=rectangle;fillColor=#87ceeb;strokeColor=#4682b4;perimeter=rectanglePerimeter;" vertex="1" parent="1">
+            <mxGeometry x="560" y="1970" width="140" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="%name%" name="Project Plan (Cluster 3)" placeholders="1" id="Y-J2-YyE4Srri9UI6lyo-135">
+          <mxCell style="shape=rectangle;fillColor=#87ceeb;strokeColor=#4682b4;perimeter=rectanglePerimeter;" vertex="1" parent="1">
+            <mxGeometry x="740" y="2020" width="150" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="Y-J2-YyE4Srri9UI6lyo-136" value="" style="curved=1;endArrow=blockThin;startArrow=none;strokeColor=#999999;endFill=1;" edge="1" parent="1" source="Y-J2-YyE4Srri9UI6lyo-114" target="Y-J2-YyE4Srri9UI6lyo-115">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Y-J2-YyE4Srri9UI6lyo-137" value="" style="curved=1;endArrow=blockThin;startArrow=none;strokeColor=#999999;endFill=1;" edge="1" parent="1" source="Y-J2-YyE4Srri9UI6lyo-114" target="Y-J2-YyE4Srri9UI6lyo-119">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Y-J2-YyE4Srri9UI6lyo-138" value="" style="curved=1;endArrow=blockThin;startArrow=none;strokeColor=#999999;endFill=1;" edge="1" parent="1" source="Y-J2-YyE4Srri9UI6lyo-115" target="Y-J2-YyE4Srri9UI6lyo-121">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Y-J2-YyE4Srri9UI6lyo-139" value="" style="curved=1;endArrow=blockThin;startArrow=none;strokeColor=#999999;endFill=1;" edge="1" parent="1" source="Y-J2-YyE4Srri9UI6lyo-119" target="Y-J2-YyE4Srri9UI6lyo-123">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Y-J2-YyE4Srri9UI6lyo-140" value="" style="curved=1;endArrow=blockThin;startArrow=none;strokeColor=#999999;endFill=1;" edge="1" parent="1" source="Y-J2-YyE4Srri9UI6lyo-124" target="Y-J2-YyE4Srri9UI6lyo-125">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Y-J2-YyE4Srri9UI6lyo-141" value="" style="curved=1;endArrow=blockThin;startArrow=none;strokeColor=#999999;endFill=1;" edge="1" parent="1" source="Y-J2-YyE4Srri9UI6lyo-125" target="Y-J2-YyE4Srri9UI6lyo-126">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Y-J2-YyE4Srri9UI6lyo-142" value="" style="curved=1;endArrow=blockThin;startArrow=none;strokeColor=#999999;endFill=1;" edge="1" parent="1" source="Y-J2-YyE4Srri9UI6lyo-124" target="Y-J2-YyE4Srri9UI6lyo-127">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Y-J2-YyE4Srri9UI6lyo-143" value="" style="curved=1;endArrow=blockThin;startArrow=none;strokeColor=#999999;endFill=1;" edge="1" parent="1" source="Y-J2-YyE4Srri9UI6lyo-124" target="Y-J2-YyE4Srri9UI6lyo-128">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Y-J2-YyE4Srri9UI6lyo-144" value="" style="curved=1;endArrow=blockThin;startArrow=none;strokeColor=#999999;endFill=1;" edge="1" parent="1" source="Y-J2-YyE4Srri9UI6lyo-124" target="Y-J2-YyE4Srri9UI6lyo-129">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Y-J2-YyE4Srri9UI6lyo-145" value="" style="curved=1;endArrow=blockThin;startArrow=none;strokeColor=#999999;endFill=1;" edge="1" parent="1" source="Y-J2-YyE4Srri9UI6lyo-127" target="Y-J2-YyE4Srri9UI6lyo-130">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Y-J2-YyE4Srri9UI6lyo-146" value="" style="curved=1;endArrow=blockThin;startArrow=none;strokeColor=#999999;endFill=1;" edge="1" parent="1" source="Y-J2-YyE4Srri9UI6lyo-128" target="Y-J2-YyE4Srri9UI6lyo-131">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Y-J2-YyE4Srri9UI6lyo-147" value="" style="curved=1;endArrow=blockThin;startArrow=none;strokeColor=#999999;endFill=1;" edge="1" parent="1" source="Y-J2-YyE4Srri9UI6lyo-128" target="Y-J2-YyE4Srri9UI6lyo-132">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Y-J2-YyE4Srri9UI6lyo-148" value="" style="curved=1;endArrow=blockThin;startArrow=none;strokeColor=#999999;endFill=1;" edge="1" parent="1" source="Y-J2-YyE4Srri9UI6lyo-129" target="Y-J2-YyE4Srri9UI6lyo-133">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Y-J2-YyE4Srri9UI6lyo-149" value="" style="curved=1;endArrow=blockThin;startArrow=none;strokeColor=#999999;endFill=1;" edge="1" parent="1" source="Y-J2-YyE4Srri9UI6lyo-129" target="Y-J2-YyE4Srri9UI6lyo-134">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Y-J2-YyE4Srri9UI6lyo-150" value="" style="curved=1;endArrow=blockThin;startArrow=none;strokeColor=#999999;endFill=1;" edge="1" parent="1" source="Y-J2-YyE4Srri9UI6lyo-129" target="Y-J2-YyE4Srri9UI6lyo-135">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
